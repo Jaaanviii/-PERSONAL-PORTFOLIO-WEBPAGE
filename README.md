@@ -76,6 +76,11 @@ Organizing code and files for future scalability
 
 Writing semantic HTML and modular CSS
 
+##OUTPUT :
+
+<img width="1912" height="935" alt="Image" src="https://github.com/user-attachments/assets/2dc0c271-adae-45fd-8a51-32085d86fbdb" />
+
+<img width="1913" height="920" alt="Image" src="https://github.com/user-attachments/assets/84f3b349-0c32-42ff-950a-34917b334dcf" />
 
 
 
